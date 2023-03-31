@@ -11,4 +11,4 @@ Made by [3kh0](https://github.com/3kh0)
 
 > "Chaos is a friend of mine." - Bob Dylan.
 
-[![Join us on Discord](https://invidget.switchblade.xyz/3kh0?theme=light)](https://discord.gg/3kh0)
+[![Join us on Discord](https://invidget.switchblade.xyz/3kh0?theme=dark)](https://discord.gg/3kh0)
