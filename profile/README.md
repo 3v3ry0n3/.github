@@ -19,5 +19,4 @@ Made by [3kh0](https://github.com/3kh0) and a little bit by [mdoryammilwalrus](h
 
 ## Some rules
 - Please don't delete other people's work or make big changes. If you are unsure, make a issue and @mention the user.
-- It _would be nice_ if you would not spam empty repos. They make it hard to find anything!
-- Currently not officially a rule: No NSWF, everything has to be SWF.
+- Currently not officially a rule: No NSFW, everything has to be SFW.
